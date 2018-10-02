@@ -16,11 +16,12 @@ h5,
 h6 {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
+  color: #D50032;
 }
 
 header.masthead {
   position: relative;
-  background-color: #343a40;
+  background-color: #D50032;
   background: url("../img/bg-masthead.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
@@ -43,8 +44,8 @@ header.masthead h1 {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
   }
   header.masthead h1 {
     font-size: 3rem;
@@ -98,7 +99,7 @@ header.masthead h1 {
 
 .testimonials .testimonial-item img {
   max-width: 12rem;
-  -webkit-box-shadow: 0px 5px 5px 0px #adb5bd;
+  -webkit-box-shadow: 0px 5px 5px 0px #D50032;
   box-shadow: 0px 5px 5px 0px #adb5bd;
 }
 

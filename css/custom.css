@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #00B5E2;
+}
+
+.container.active{
+    background: None !important;
+}
+
+
